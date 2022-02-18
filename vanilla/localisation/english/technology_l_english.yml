@@ -874,6 +874,7 @@
  tech_planetary_unification_desc:2 "Ancient warring tribes, historical nations in conflict, now unified in empire. We must not, will not, crumble." # We have progressed from warring tribes, from conflicting nations, to a unified Empire, a single will ready to grasp the stars.
  tech_planetary_unification_machine_intelligence:0 "Uniform Data Standards"
  tech_planetary_unification_desc_machine_intelligence:0 "Deviance will not be tolerated."
+ tech_planetary_unification_effect:1 "Grants a lump sum of £unity£§YUnity§!"
  tech_adaptive_bureaucracy:0 "Adaptive Bureaucracy"
  tech_adaptive_bureaucracy_desc:1 "The progress we make calls for a new, nimbler form of administration that may aid rather than hinder us in our pursuits." # The leaps/progress/discoveries we have made demand a new form of administrative system, one that can be shaped by opportunity rather than limit it.
  tech_adaptive_bureaucracy_machine_intelligence:0 "Positronic CPUs"
