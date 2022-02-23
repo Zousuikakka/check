@@ -131,7 +131,6 @@
  energy_poor:0 "Depleted Energy"
  energy_poor_desc:0 "Don't want to alarm you, but snakes are coiled around the generators and draining power."
 
-
  ####################################
  # Ship/Fleet Modifiers 
  ####################################

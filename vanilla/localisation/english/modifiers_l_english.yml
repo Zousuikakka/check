@@ -528,7 +528,7 @@
  volatile_motes_deficit:0 "$volatile_motes$ Shortage"
  rare_crystals_deficit:0 "$rare_crystals$ Shortage"
  exotic_gases_deficit:0 "$exotic_gases$ Shortage"
- unity_deficit: "$unity$ Shortage"
+ unity_deficit:0 "$unity$ Shortage"
 
  ####################################
  # Resource Modifiers

@@ -52,6 +52,7 @@
  FALLEN_MACHINE_EMPIRE_PEACE_PROPOSE_BERSERK:0 "$01_BERSERK_MACHINE_EMPIRE_ERROR$"
 
  # General Greetings
+ DEFAULT_GREETINGS_STRING:0 "Greetings!"
  01_HOSTILE_GREETING:1 "State your intentions, [From.GetSpeciesNameInsult]."
  02_HOSTILE_GREETING:0 "Make this brief, [From.GetSpeciesName]. Our patience for pointless banter has long since run out."
  03_HOSTILE_GREETING:0 "No more games, [From.GetSpeciesName]. What do you want?"

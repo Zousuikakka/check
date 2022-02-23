@@ -690,10 +690,10 @@
 
  requires_strongest:0 "§RRequires $law_category_succession_type$ to be §Y$succession_type_strongest$§!.§!"
 
- mercantile_traditions_completed: "Has completed §Y$tr_mercantile_adopt$§!"
- discovery_traditions_completed: "Has completed §Y$tr_discovery_adopt$§!"
- domination_traditions_completed: "Has completed §Y$tr_domination_adopt$§!"
- unyielding_traditions_completed: "Has completed §Y$tr_unyielding_adopt$§!"
+ mercantile_traditions_completed:0 "Has completed §Y$tr_mercantile_adopt$§!"
+ discovery_traditions_completed:0 "Has completed §Y$tr_discovery_adopt$§!"
+ domination_traditions_completed:0 "Has completed §Y$tr_domination_adopt$§!"
+ unyielding_traditions_completed:0 "Has completed §Y$tr_unyielding_adopt$§!"
  disabled_for_hegemony:0 "§RA §Y$hegemony_federation$§! cannot ban subject nations from joining.§!"
  president_no_effect:0 "No effect."
 
@@ -1679,12 +1679,31 @@
  ### Colony Type
  ################
 
- col_bureau:1 "Administrative Center"
- col_bureau_desc:3 "An entire world dedicated to administrating our empire."
+ col_bureau:2 "Unification Center"
+ col_bureau_desc:4 "An entire world dedicated to unifying our empire."
  col_bureaucracy_custom:1 "Administrative Capacity from Bureaucrats is increased by §G2§!.\nBureaucrat Job Upkeep reduced by §G10%§!. \n£pop£ Pop Ethics Shift Chance reduced by §G20%§!."
 
- col_habitat_bureau:0 "Unification Station"
- col_habitat_bureau_desc:0 "An entire habitat dedicated to unifying our empire."
+
+ col_bureau_spiritualist:0 "Ecclesiastical Center"
+ col_bureau_spiritualist_desc:0 "$col_bureau_desc$"
+
+ col_bureau_hive:0 "$col_bureau$"
+ col_bureau_hive_desc:0 "$col_bureau_desc$"
+
+ col_bureau_machine:0 "$col_bureau$"
+ col_bureau_machine_desc:0 "$col_bureau_desc$"
+
+ col_habitat_bureau:1 "Unification Station"
+ col_habitat_bureau_desc:1 "An entire habitat dedicated to unifying our empire."
+
+ col_habitat_bureau_spiritualist:0 "Ecclesiastical Station"
+ col_habitat_bureau_spiritualist_desc:0 "$col_habitat_bureau_desc$"
+
+ col_habitat_bureau_hive:0 "$col_habitat_bureau$"
+ col_habitat_bureau_hive_desc:0 "$col_habitat_bureau_desc$"
+
+ col_habitat_bureau_machine:0 "$col_habitat_bureau$"
+ col_habitat_bureau_machine_desc:0 "$col_habitat_bureau_desc$"
 
  ################
  ### Modifiers
