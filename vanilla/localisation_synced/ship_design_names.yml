@@ -259,3 +259,7 @@
  NAME_Polaris_F: "Permafrost"
  NAME_Polaris_G: "Iceberg"
  NAME_Polaris_ship: "Icicle"
+ ghost_ship: "Ghost Ship"
+ NAME_Hillos_fleet: "Ghost Ship"
+ NAME_Hillos_ship: "Ubume"
+ NAME_hillos_country: "Ghost Ship"
